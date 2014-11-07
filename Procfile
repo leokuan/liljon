@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n liljon
+web: bin/hubot --adapter slack
